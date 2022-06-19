@@ -29,11 +29,11 @@ Lot 3 has a true sample mean of 1496.14 and a p value of 0.04 meaning that we re
 
 ## Study Design: MechaCar vs Competition
 
-What metric or metrics are you going to test? 
-Resale Value, MPG
-What is the null hypothesis or alternative hypothesis?
-Null Hypothesis -> there is no correlation between the current selling price and MPG
-What statistical test would you use to test the hypothesis? And why?
-Linear regression, it would be able to highlight the relationship between the 2 metrics.
-What data is needed to run the statistical test?
-The Resale values are needed.
+1. What metric or metrics are you going to test? 
+   Resale Value, MPG
+2. What is the null hypothesis or alternative hypothesis?
+   Null Hypothesis -> there is no correlation between the current selling price and MPG
+3. What statistical test would you use to test the hypothesis? And why?
+   Linear regression, it would be able to highlight the relationship between the 2 metrics.
+4. What data is needed to run the statistical test?
+   The Resale values are needed.

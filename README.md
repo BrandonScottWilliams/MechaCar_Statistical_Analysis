@@ -7,19 +7,21 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 
 ## T-Tests on Suspension Coils
+### Test all lots
+![image](https://user-images.githubusercontent.com/99148657/174502703-792ed9fe-71a0-42bd-8b98-204e1f623081.png)
+ 
+The mean of the sample is 1498.78. Because the p-Value is 0.06 and the significance level is lower at 0.06 there isn't enough evidence to reject the null hypothesis. The PSI across all manufacturing lots are different from the population mean of 1500 pounds per square inch.
+
+
 ### Test lot 1
-![image](https://user-images.githubusercontent.com/99148657/174502102-2d5fada5-0898-4d26-aac3-476e6e733881.png)+
+![image](https://user-images.githubusercontent.com/99148657/174502102-2d5fada5-0898-4d26-aac3-476e6e733881.png)
+
 Lot 1 has a true sample mean of 1500 and a p value of 1 meaning that we accept the null hypothesis. There are no statistical differences between the sample and population mean.
 ###  Test lot 2
 ![image](https://user-images.githubusercontent.com/99148657/174502109-19e188c1-ab5b-48dc-8a0a-c6950b15952b.png)
-
+Lot 2 has a true sample mean of 1500.02 and a p value of 0.61 meaning that we accept the null hypothesis. There are no statistical differences between the sample and population mean.
 ### Test lot 3
 ![image](https://user-images.githubusercontent.com/99148657/174502116-4c0d6819-4d71-497e-8aab-d737f509a9ef.png)
-Lot 2 has a true sample mean of 1500.02 and a p value of 0.61 meaning that we accept the null hypothesis. There are no statistical differences between the sample and population mean.
-### Test all lots
-![image](https://user-images.githubusercontent.com/99148657/174502703-792ed9fe-71a0-42bd-8b98-204e1f623081.png)
-Lot 3 has a true sample mean of 1496.14 and a p value of 0.04 meaning that we reject the null hypothesis. 
 
-The mean of the sample is 1498.78. Because the p-Value is 0.06 and the significance level is lower at 0.06 there isn't enough evidence to reject the null hypothesis. The PSI across all manufacturing lots are different from the population mean of 1500 pounds per square inch.
-
+Lot 3 has a true sample mean of 1496.14 and a p value of 0.04 meaning that we reject the null hypothesis.
 
